@@ -1,5 +1,5 @@
 <form method="POST" class="text-center mt-4">
-    <label class="me-3">
+    <label class="me-3 mt-2 mb-2">
      <div class="input-group">
         <div class="input-group-text"><i class="bi bi-globe-europe-africa"></i></div>
       <select class="form-control">
@@ -10,7 +10,7 @@
       </select>
       </div>
     </label>
-    <label class="me-3">
+    <label class="me-3 mt-2 mb-2">
         <div class="input-group">
             <div class="input-group-text">
                 <i class="bi bi-house-door-fill"></i>
@@ -23,7 +23,7 @@
         </select>
         </div>
       </label>
-      <label class="me-3">
+      <label class="me-3 mt-2 mb-2">
         <div class="input-group">
             <div class="input-group-text">
                 <i class="bi bi-currency-exchange"></i>

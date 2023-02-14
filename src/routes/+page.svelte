@@ -5,7 +5,7 @@
 </script>
 <div class="mt-5 text-center">
     <div>
-        <img src="{logo}" alt="" >
+        <img src="{logo}" alt="" class="img-fluid">
     </div>
 <figure class="text-center mt-3">
     <blockquote class="blockquote">
