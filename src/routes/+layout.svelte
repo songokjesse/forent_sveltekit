@@ -1,19 +1,18 @@
 <script>
-	import Navbar from "../component/navbar.svelte";
-
+	import Navbar from '../component/navbar.svelte';
 </script>
 
 <svelte:head>
-<title>Learn Svelte</title>
-<style>
-    body {
-      font-family: "Nunito", sans-serif;
-    }
-</style>
+	<title>Learn Svelte</title>
+	<style>
+		body {
+			font-family: 'Nunito', sans-serif;
+		}
+	</style>
 </svelte:head>
 
 <!-- <Navbar></Navbar> -->
 
 <div class="container">
-    <slot></slot>
+	<slot />
 </div>
