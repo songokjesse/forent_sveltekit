@@ -13,7 +13,7 @@
     <label class="me-3">
         <div class="input-group">
             <div class="input-group-text">
-                <i class="bi bi-house"></i>
+                <i class="bi bi-house-door-fill"></i>
             </div>
         <select class="form-control">
           <option selected disabled></option>
