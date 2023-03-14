@@ -10,7 +10,7 @@
 			aria-expanded="false"
 			aria-label="Toggle navigation"
 		>
-			<span class="navbar-toggler-icon" />
+			<span class="navbar-toggler-icon"></span>
 		</button>
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<!-- <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -31,7 +31,7 @@
               <li><a class="dropdown-item" href="#">Something else here</a></li>
             </ul>
           </li>
-    
+
         </ul> -->
 		</div>
 	</div>
